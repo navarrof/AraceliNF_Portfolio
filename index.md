@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Crime Analysis and Prediction: Catalan Police Department
 
-[Project 1 Title](/sample_page)
-
+[![Code on GitHub](https://img.shields.io/badge/GitHub-Code_on_GitHub-blue?logo=GitHub)](https://github.com/navarrof/CrimeAnalysis)
+[![Summary on GitHub Pages](https://img.shields.io/badge/GitHub-Summary_on_GitHub_Pages-orange?logo=GitHub)](https://navarrof.github.io/CrimeAnalysis/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
